@@ -1,5 +1,5 @@
 body {
-    margin: 0 auto;
+    margin: auto;
     max-width: 100%;
 }
 
@@ -185,6 +185,7 @@ blockquote img {
 
 .events {
     text-align: center;
+    padding: 0 130px;
 }
 
 .events h1 {
@@ -261,10 +262,8 @@ a .banner p {}
 
 .tours {
     width: 76%;
-    /* margin: 9% 11%; */
-    /* box-sizing: border-box; */
+    box-sizing: border-box;
     overflow: hidden;
-    /* padding: 0px 92px; */
     margin: auto;
 }
 
